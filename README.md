@@ -1,2 +1,3 @@
 # Inputless-GPT
-Generic ChatBot for Business
+Generic ChatBot for Legal Professionals
+Under development 
